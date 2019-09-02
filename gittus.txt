@@ -1,4 +1,8 @@
 tran minh tu
+<<<<<<< HEAD
 abc
 123
 how
+=======
+abc
+>>>>>>> parent of 9d38326... lan 2
